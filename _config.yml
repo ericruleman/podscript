@@ -1,1 +1,15 @@
 theme: jekyll-theme-midnight
+
+# Site settings
+title: Podscript
+email: eruleman@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Transcripts for podcasts, generated via deep learning!
+baseurl: "/podscript" # the subpath of your site, e.g. /blog/
+url: "http://ericruleman.github.io" # the base hostname & protocol for your site
+twitter_username: eric_ruleman
+github_username:  ericruleman
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:title:output_ext
