@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transcript of Lex Fridman AI Podcast #85 | Roger Penrose: Physics of Consciousness and the Infinite Universe""
+title: "Transcript of Lex Fridman AI Podcast #85 - Roger Penrose: Physics of Consciousness and the Infinite Universe"
 date: "2020-04-17 9:09:00"
 ---
 
